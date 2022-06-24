@@ -1,0 +1,111 @@
+# NOTE: This page was copy-pasted directly from Wikipedia
+
+Elden Ring
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Elden Ring
+Elden Ring Box art.jpg
+Developer(s)	FromSoftware
+Publisher(s)	Bandai Namco Entertainment
+JP: FromSoftware
+Director(s)
+Hidetaka Miyazaki
+Yui Tanimura
+Producer(s)	Yuzo Kojima
+Programmer(s)
+Takeshi Suzuki
+Yuki Kido
+Writer(s)
+Hidetaka Miyazaki
+George R. R. Martin
+Composer(s)
+Tsukasa Saitoh
+Shoi Miyazawa
+Tai Tomisawa
+Yuka Kitamura
+Yoshimi Kudo
+Platform(s)
+PlayStation 4
+PlayStation 5
+Windows
+Xbox One
+Xbox Series X/S
+Release	February 25, 2022
+Genre(s)	Action role-playing
+Mode(s)	Single-player, multiplayer
+Elden Ring[a] is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It was directed by Hidetaka Miyazaki and made in collaboration with the fantasy novelist George R. R. Martin, who provided material for the setting. It was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on February 25.
+
+Elden Ring is presented through a third-person perspective, with players freely roaming its interactive open world. Gameplay elements include combat featuring several types of weapons and magic spells, horseback riding, summons, and crafting. The game received critical acclaim, with praise for its open world and evolution of the Souls games, a related series by FromSoftware sharing the same core gameplay. Elden Ring sold more than 13.4 million copies within five weeks of its release.
+
+
+Contents
+1	Gameplay
+2	Synopsis
+2.1	Premise
+2.2	Plot
+3	Development and release
+4	Reception
+4.1	Sales
+4.2	Awards
+5	References
+6	Notes
+7	External links
+Gameplay
+
+The player character fighting a dragon while riding Torrent, their steed
+Elden Ring is an action role-playing game played in a third-person perspective with gameplay focusing on combat and exploration; it features elements similar to those found in other games developed by FromSoftware, such as the Souls series, Bloodborne, and Sekiro. Set in an open world, players are allowed to freely explore the Lands Between and its six main areas, featuring locations such as castles, caves, and catacombs. These main areas are explorable using the character's mount, Torrent, as the primary mode of transportation, along with the ability to fast travel outside of combat. Throughout the game, players encounter non-player characters (NPCs) and enemies alike, including the demigods who rule each main area and serve as the game's main bosses.[1][2][3] Unlike many other open-world games, Elden Ring does not feature populated towns with NPCs.[4]
+
+Combat in Elden Ring relies heavily on character-building elements found in previous Souls games and related intellectual properties, such as calculated and close-ranged melee-based combat with the use of skills, magic abilities, as well as blocking and dodging mechanics. Elden Ring introduces mounted combat and a stealth system, the latter being a core gameplay element from Sekiro; these features are expected to encourage players in strategizing their combat approach with each unique enemy they encounter. The game makes use of a player character stamina bar after being absent from Sekiro, although its overall influence over combat was reduced compared to previous FromSoftware games that utilized it. Unlike in Sekiro, resurrection mechanics after in-game death are not available; however, some elements were added to ensure players' progression within the game.[1][5]
+
+Unlike a fixed skill tree system as seen with Sekiro, players are able to discover different skills through exploration or as rewards from combat. These skills are interchangeable with a large variety of weapons which, alongside equipment, magic abilities, and items players can craft using materials found within the world, can be used to customize the player character.[2][5] The game also features summoning mechanics, where players can summon a large variety of collectible spirits hidden throughout the game's world map, including some previously defeated enemies, as allies to assist them in certain battles.[6] Similar to the Souls series, the game's multiplayer system also allows other players to be summoned for both cooperative and player versus player (PvP) play.[7][8]
+
+Synopsis
+Premise
+Elden Ring takes place in the Lands Between, sometime after the destruction of the titular Elden Ring, the Shattering, and the scattering of its shards, the Great Runes. Once graced by the Ring and the Erdtree which symbolizes its presence, the realm is now ruled over by the demigod offspring of Queen Marika the Eternal, each possessing a shard of the Ring that corrupts and taints them with power leading to abandonment by the Greater Will. As Tarnished — exiles from the Lands Between who lost the Ring's grace and are summoned back after the Shattering — players must traverse the realm to ultimately become the Elden Lord.[1][9][10]
+
+Plot
+The Tarnished is one of many exiles called back to the Lands Between in hopes of repairing the Elden Ring and becoming the next Elden Lord. Early on in their journey, the Tarnished encounters a Maiden named Melina. As the Tarnished is Maidenless, Melina offers to act as their Maiden, granting them the ability to turn runes into strength, under the condition that the Tarnished bring her to the base of the Erdtree where she can fulfill her purpose. She also takes the Tarnished to the Roundtable Hold, a gathering place for other Tarnished seeking to repair the Elden Ring. There, the Tarnished learns from their divine benefactor, the Two Fingers, that in the wake of the Shattering and Queen Marika's disappearance, her demigod children had taken the Great Runes, pieces of the Elden Ring, for themselves. Corrupted by the influence of the shards, the demigods now war against each other to try and obtain the other Great Runes. The Tarnished is instructed to collect the Great Runes and bring them to the Erdtree, where they can be used to repair the Elden Ring.
+
+The Tarnished proceeds to journey into the Lands Between, investigating its various locales and defeating the demigods. Eventually, the Tarnished recovers enough Great Runes so that Two Fingers allows them to confront Morgott the Grace-Given, the demigod guarding the Erdtree. As he dies, Morgott claims that the Erdtree will not allow anyone to enter it, making the Elden Ring irreparable. The Tarnished confirms this when they approach the Erdtree and find their way blocked by a wall of thorns. Melina then arrives and advises that they journey to find the Flame of Ruin, which they can use to set the Erdtree on fire and burn away the thorns. Upon learning the Tarnished was rebuffed from the Erdtree, Two Fingers withdraws from the mortal plane to consider its next move, leaving the Tarnished free to proceed with Melina's plan, or search for the imprisoned Three Fingers to gain the power of the Frenzied Flame.
+
+Upon obtaining the Flame of Ruin, if the Tarnished did not free the Three Fingers, then Melina will take the flame and sacrifice herself to set the Erdtree on fire. If the Tarnished freed the Three Fingers, then Melina will abandon the Tarnished, forcing them to use the Frenzied Flame to set the Erdtree on fire. Regardless, the Tarnished is transported to the ruined city of Farum Azula while the Erdtree burns. After defeating Maliketh the Black Blade and harnessing his power to fuel the fire, they are returned to the foot of the Erdtree, which has now been burnt to ash. As the Tarnished ascends towards the Erdtree, they battle fellow Roundtable Hold member Gideon Ofnir, as well as the First Elden Lord Godfrey to gain access to the interior. Inside, they fight the reanimated remains of Queen Marika's consort and alter ego, Radagon. Once Radagon is defeated, the Elden Beast, the true form of the Elden Ring, reveals itself. After the beast is vanquished, the Tarnished finally gains access to Queen Marika's shattered corpse, which contains the remains of the Elden Ring. Depending on the Tarnished's actions throughout the game, six different endings can then be achieved, ranging from the Tarnished becoming the Elden Lord in some form, allowing Marika to be usurped by Ranni the Witch, or using the Frenzied Flame to destroy the Lands Between.[11]
+
+Development and release
+Elden Ring was developed by FromSoftware and published by Bandai Namco Entertainment. It was announced at E3 2019 originally for PlayStation 4, Windows, and Xbox One.[12] No further information was revealed until a June 2021 trailer announced a release date of January 21, 2022, with additional releases on PlayStation 5 and Xbox Series X/S.[13] Another delay would be announced in October 2021, setting a new date of February 25, 2022.[14]
+
+Elden Ring was directed by Hidetaka Miyazaki with worldbuilding by the fantasy novelist George R. R. Martin, best known for his A Song of Ice and Fire series.[15] A fan of Martin's work, Miyazaki contacted him with an offer to work together on a project, giving him the creative freedom to write the overarching story of the game's universe. Miyazaki used his contributions as the foundation of the game's narrative, comparing the process to that of using a "dungeon master's handbook in a tabletop RPG".[15][4] Some staff from Game of Thrones, a television series adaptation of A Song of Ice and Fire, also assisted with the game's development.[16] As with many of Miyazaki's previous games, the story was designed to not be clearly explained as FromSoftware intended for players to interpret it for themselves via flavor text and optional discussions with non-player characters (NPCs).[4][17] Miyazaki hoped Martin's contributions would produce a more accessible narrative than the studio's previous games.[18]
+
+Work began on the game in early 2017 following the release of The Ringed City, a piece of downloadable content for Dark Souls III, and was developed alongside Sekiro.[19] As with games in the Souls series, players have the ability to create their own custom character instead of using a fixed protagonist.[4] Miyazaki also considered Elden Ring to be a more "natural evolution" to the Souls series, featuring an open world with new gameplay mechanics such as horseback riding.[4][19] He cited Shadow of the Colossus (2005), The Elder Scrolls series, The Witcher 3 (2015), and The Legend of Zelda: Breath of the Wild (2017) as design influences.[20] The game's soundtrack was composed by Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, and Yoshimi Kudo.[21]
+
+Reception
+Reception
+Aggregate score
+Aggregator	Score
+Metacritic	PC: 94/100[22]
+PS5: 96/100[23]
+XSXS: 96/100[24]
+Review scores
+Publication	Score
+Destructoid	10/10[25]
+Easy Allies	9.5/10[26]
+Famitsu	39/40[27]
+Game Informer	10/10[28]
+GameRevolution	[29]
+GameSpot	10/10[30]
+GamesRadar+	[31]
+Hardcore Gamer	5/5[32]
+IGN	10/10[33]
+PC Gamer (US)	90/100[34]
+PCGamesN	10/10[35]
+Shacknews	9/10[36]
+The Guardian	[37]
+VG247	[38]
+VideoGamer.com	9/10[39]
+The Guardian praised the sense of exploration present in the game.[37] Destructoid felt the story was better told than in previous Souls games.[25] While criticizing the game's map for not properly conveying height changes, Ars Technica enjoyed the game's horse riding mechanics.[50] Eurogamer praised the world design, but criticized the lack of accessibility features around mechanics such as combat and menu navigation.[51][52] Polygon liked how the game gave players more options to fight enemies, but still kept a sense of challenge intact.[53] IGN praised the lack of objective markers in Elden Ring, but felt that the game should have some sort of quest log or journal to note plot threads.[33] Game Informer highlighted the level design of the dungeons.[28] PCGamesN felt the UI improvements made the game vastly more accessible.[35]
+
+Sales
+Elden Ring sold 12 million copies worldwide within seventeen days, surpassing Dark Souls III for the fastest-selling Bandai Namco game of all time.[54] It went on to sell 13.4 million copies worldwide by the end of March 2022.[55] That figure is half of the collective 27 million sales from the Dark Souls trilogy by FromSoftware as of 2020.[56] It topped Steam's weekly sales chart upon launch and reached a peak of 952,523 concurrent players by early March, ranking it among the highest on the platform in its history.[57][58]
+
+It was the best-selling retail game in Japan during its first week of release, making it the second best-selling game in the country of February 2022.[59][60] It sold one million copies in Japan within seventeen days of release.[54] In the United States, Elden Ring was the best-selling game of February and March 2022 and the best-selling of the previous twelve months, surpassing Call of Duty: Vanguard.[61][62]
+
+It was also the best-selling game of February 2022 in Europe and became the largest launch for a new IP since Tom Clancy's The Division in 2016; the PC version accounted for 44% of sales, followed by the PlayStation versions with 40% and Xbox with 16%.[63] In the United Kingdom, Elden Ring debuted at the top of the physical and digital sales chart and was the third largest physical launch of early 2022 after Pokémon Legends: Arceus and Horizon Forbidden West.[64] The game also became the fastest-selling new IP in the UK since The Division in 2016 and had the largest launch in the country outside of the FIFA and Call of Duty franchises since Red Dead Redemption 2 in 2018.[65] It would also be the top-selling game in the UK in March 2022.[66] In Spain, Elden Ring sold 60,500 copies during its launch week, making it FromSoftware's strongest game launch there.[67]
